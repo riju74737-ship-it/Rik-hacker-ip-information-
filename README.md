@@ -1,5 +1,7 @@
 # Rik-hacker-ip-information-
+
 ip information tool rik hacker
+
 ## 📥 Installation (Termux)
 
 ```bash
@@ -14,5 +16,5 @@ python ip_info.py
 ## 📸 Tool Preview
 
 <p align="center">
-  <img src="1000050117.jpg" alt="RIK HACKER IP Information Tool" width="700">
+  <img src="./1000050117.jpg" alt="RIK HACKER IP Information Tool" width="800">
 </p>

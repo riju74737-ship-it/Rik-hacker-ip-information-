@@ -14,5 +14,5 @@ python ip_info.py
 ## 📸 Tool Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_NAME.png" width="700">
+  <img src="1000050117.jpg" alt="RIK HACKER IP Information Tool" width="700">
 </p>
